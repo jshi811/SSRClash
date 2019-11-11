@@ -157,7 +157,6 @@ def writeRulescustom(sublink,flagname,methods,emoji):    #客制化策略组及�
         #ssrdata = data.strip().replace('==','').split('\n')      
         groups = [[] for _ in range(len(flags))]
         #print(groups)
-
         for i in range(len(ssrdata)):          #遍历节点                                         #节点组            
             ssrlink = safe_base64_decode(ssrdata[i].replace('ssr://','').replace('\r',''))
             nodeR = getnodeR(ssrlink)
