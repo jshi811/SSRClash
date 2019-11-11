@@ -154,7 +154,7 @@ def writeRulescustom(sublink,flagname,methods,emoji):    #客制化策略组及�
                 else :
                     flags[i] = '&' + flags[i]
                     break            
-        #ssrdata = data.strip().replace('==','').split('\n')     
+        #ssrdata = data.strip().replace('==','').split('\n')      
         groups = [[] for _ in range(len(flags))]
         #print(groups)
 
