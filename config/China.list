@@ -276,7 +276,7 @@ DOMAIN-SUFFIX,uni-bielefeld.de
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,wiley.com
-DOMAIN-SUFFIX,worldbank.org
+#DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
 # > Other
 DOMAIN-SUFFIX,cn
