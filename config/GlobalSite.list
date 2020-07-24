@@ -1,2 +1,4 @@
 # > Google
 DOMAIN-SUFFIX, services.googleapis.cn
+# > World Bank
+DOMAIN-KEYWORD, worldbank
