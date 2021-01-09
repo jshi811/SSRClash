@@ -10,3 +10,6 @@ DOMAIN,exchange.qiye.163.com
 DOMAIN,exchangehz.qiye.163.com
 # > Teambition
 DOMAIN,tbanalysis.teambition.com
+# > 知乎图片
+DOMAIN-KEYWORD,dm.pstatp.com
+DOMAIN-KEYWORD,pangolin-sdk-toutiao.com
